@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/48/trunk/src/casock/sigio/base
+END
+FDHandlerHash.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/11/trunk/src/casock/sigio/base/FDHandlerHash.h
+END
+Communicator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/48/trunk/src/casock/sigio/base/Communicator.cc
+END
+Communicator.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/11/trunk/src/casock/sigio/base/Communicator.h
+END
+SocketReader.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/11/trunk/src/casock/sigio/base/SocketReader.cc
+END
+Handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/11/trunk/src/casock/sigio/base/Handler.cc
+END
+SocketReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/11/trunk/src/casock/sigio/base/SocketReader.h
+END
+FileDescriptor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/44/trunk/src/casock/sigio/base/FileDescriptor.cc
+END
+Handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/11/trunk/src/casock/sigio/base/Handler.h
+END
+FileDescriptor.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/11/trunk/src/casock/sigio/base/FileDescriptor.h
+END
+SockReaderHandler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/11/trunk/src/casock/sigio/base/SockReaderHandler.cc
+END
+SockReaderHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/11/trunk/src/casock/sigio/base/SockReaderHandler.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/11/trunk/src/casock/sigio/base/Makefile.am
+END
+Dispatcher.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/11/trunk/src/casock/sigio/base/Dispatcher.cc
+END
+Dispatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/11/trunk/src/casock/sigio/base/Dispatcher.h
+END
+Socket.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/11/trunk/src/casock/sigio/base/Socket.cc
+END
+Socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/11/trunk/src/casock/sigio/base/Socket.h
+END

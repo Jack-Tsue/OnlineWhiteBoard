@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/78/trunk/src/tests/casock/proactor/asio
+END
+client1.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/78/trunk/src/tests/casock/proactor/asio/client1.cc
+END
+SocketSession1.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/78/trunk/src/tests/casock/proactor/asio/SocketSession1.h
+END
+SocketServer1.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/78/trunk/src/tests/casock/proactor/asio/SocketServer1.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/77/trunk/src/tests/casock/proactor/asio/Makefile.am
+END
+server1.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/78/trunk/src/tests/casock/proactor/asio/server1.cc
+END
+SocketClient1.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/78/trunk/src/tests/casock/proactor/asio/SocketClient1.h
+END

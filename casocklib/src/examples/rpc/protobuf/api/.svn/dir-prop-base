@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 52
+Makefile
+Makefile.in
+rpc_hello.pb.cc
+rpc_hello.pb.h
+
+END

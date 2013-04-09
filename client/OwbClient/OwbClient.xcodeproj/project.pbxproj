@@ -406,6 +406,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "OwbClient/OwbClient-Prefix.pch";
 				INFOPLIST_FILE = "OwbClient/OwbClient-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -417,6 +418,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "OwbClient/OwbClient-Prefix.pch";
 				INFOPLIST_FILE = "OwbClient/OwbClient-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -475,6 +477,7 @@
 				D1D67F8A171169D200460199 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D1D67F8B171169D200460199 /* Build configuration list for PBXNativeTarget "OwbClientTests" */ = {
 			isa = XCConfigurationList;
@@ -483,6 +486,7 @@
 				D1D67F8D171169D200460199 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

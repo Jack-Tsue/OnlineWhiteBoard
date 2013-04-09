@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/72/trunk/src/casock/rpc/sigio/protobuf/server
+END
+RPCServerCommunicator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/13/trunk/src/casock/rpc/sigio/protobuf/server/RPCServerCommunicator.cc
+END
+RPCServerProxy.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/72/trunk/src/casock/rpc/sigio/protobuf/server/RPCServerProxy.cc
+END
+RPCServerCommunicator.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/40/trunk/src/casock/rpc/sigio/protobuf/server/RPCServerCommunicator.h
+END
+RPCServerProxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/72/trunk/src/casock/rpc/sigio/protobuf/server/RPCServerProxy.h
+END
+RPCAcceptorHandler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/72/trunk/src/casock/rpc/sigio/protobuf/server/RPCAcceptorHandler.cc
+END
+RPCReaderHandler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/72/trunk/src/casock/rpc/sigio/protobuf/server/RPCReaderHandler.cc
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/33/trunk/src/casock/rpc/sigio/protobuf/server/Makefile.am
+END
+RPCAcceptorHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/72/trunk/src/casock/rpc/sigio/protobuf/server/RPCAcceptorHandler.h
+END
+RPCReaderHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/72/trunk/src/casock/rpc/sigio/protobuf/server/RPCReaderHandler.h
+END

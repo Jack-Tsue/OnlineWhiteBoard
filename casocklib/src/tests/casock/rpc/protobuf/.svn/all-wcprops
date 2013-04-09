@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/84/trunk/src/tests/casock/rpc/protobuf
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/77/trunk/src/tests/casock/rpc/protobuf/Makefile.am
+END

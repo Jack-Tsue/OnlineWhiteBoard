@@ -18,7 +18,7 @@
     self.window.backgroundColor = [UIColor whiteColor];
     
     self.window.rootViewController = [[HomeViewController alloc]init];
-    
+    [application setStatusBarOrientation:UIInterfaceOrientationLandscapeRight];
     [self.window makeKeyAndVisible];
     return YES;
 }

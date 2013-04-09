@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/80/trunk/src/examples/rpc/asio
+END
+rpcserver.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/76/trunk/src/examples/rpc/asio/rpcserver.cc
+END
+rpcclient.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/80/trunk/src/examples/rpc/asio/rpcclient.cc
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/76/trunk/src/examples/rpc/asio/Makefile.am
+END

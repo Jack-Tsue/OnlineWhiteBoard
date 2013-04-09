@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/48/trunk/src/casock/rpc/sigio/protobuf/base
+END
+RPCCommunicator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/48/trunk/src/casock/rpc/sigio/protobuf/base/RPCCommunicator.cc
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/13/trunk/src/casock/rpc/sigio/protobuf/base/Makefile.am
+END
+RPCCommunicator.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/40/trunk/src/casock/rpc/sigio/protobuf/base/RPCCommunicator.h
+END

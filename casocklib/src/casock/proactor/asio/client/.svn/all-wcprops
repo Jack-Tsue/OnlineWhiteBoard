@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/69/trunk/src/casock/proactor/asio/client
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/8/trunk/src/casock/proactor/asio/client/Makefile.am
+END
+SocketClient.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/69/trunk/src/casock/proactor/asio/client/SocketClient.cc
+END
+SocketClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/52/trunk/src/casock/proactor/asio/client/SocketClient.h
+END

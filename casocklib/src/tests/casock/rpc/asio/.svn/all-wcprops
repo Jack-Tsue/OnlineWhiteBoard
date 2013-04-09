@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/80/trunk/src/tests/casock/rpc/asio
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/77/trunk/src/tests/casock/rpc/asio/Makefile.am
+END

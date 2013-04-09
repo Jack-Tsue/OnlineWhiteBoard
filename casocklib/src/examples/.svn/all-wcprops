@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/82/trunk/src/examples
+END
+client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/64/trunk/src/examples/client.cc
+END
+ClientSockReaderHandler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14/trunk/src/examples/ClientSockReaderHandler.cc
+END
+ClientSockReaderHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14/trunk/src/examples/ClientSockReaderHandler.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/14/trunk/src/examples/Makefile.am
+END
+ServerSockAcceptorHandler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14/trunk/src/examples/ServerSockAcceptorHandler.cc
+END
+server.cc
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/14/trunk/src/examples/server.cc
+END
+ServerSockAcceptorHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14/trunk/src/examples/ServerSockAcceptorHandler.h
+END
+ServerSockReaderHandler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/48/trunk/src/examples/ServerSockReaderHandler.cc
+END
+ServerSockReaderHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/src/examples/ServerSockReaderHandler.h
+END
