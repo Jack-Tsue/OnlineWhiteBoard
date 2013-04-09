@@ -1,8 +1,0 @@
-K 10
-svn:ignore
-V 35
-Makefile
-Makefile.in
-test_Lockable
-
-END

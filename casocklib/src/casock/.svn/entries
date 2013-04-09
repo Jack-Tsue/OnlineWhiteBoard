@@ -1,83 +1,0 @@
-10
-
-dir
-84
-http://casocklib.googlecode.com/svn/trunk/src/casock
-http://casocklib.googlecode.com/svn
-
-
-
-2010-06-18T02:40:14.046746Z
-84
-leandro.costa
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-fc5ed29a-2a59-11df-b744-258d51847b74
-
-rpc
-dir
-
-server
-dir
-
-proactor
-dir
-
-Makefile.am
-file
-
-
-
-
-2013-04-02T04:37:48.000000Z
-29c9b944b2a2621b06cbce15e62c0106
-2010-04-08T02:47:46.586399Z
-26
-leandro.costa
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-34
-
-base
-dir
-
-sigio
-dir
-
-util
-dir
-
-client
-dir
-
