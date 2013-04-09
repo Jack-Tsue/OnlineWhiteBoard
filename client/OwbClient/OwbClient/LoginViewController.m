@@ -18,7 +18,7 @@
     self = [super initWithStyle:style];
     if (self) {
         // Custom initialization
-        self.labels = @[@"account",@"password"];
+        self.labels = @[@"Username",@"Password"];
     }
     return self;
 }
@@ -26,7 +26,8 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-    self.view.frame = CGRectMake(20, 20, 160, 20);
+    self.view.frame = CGRectMake(230, 20, 100, 20);
+    [self.view setBackgroundColor:[UIColor clearColor]];
     // Uncomment the following line to preserve selection between presentations.
     // self.clearsSelectionOnViewWillAppear = NO;
  
@@ -64,6 +65,7 @@
     // Configure the cell...
     if (!cell) {
         cell = [[UITableViewCell alloc]initWithStyle:UITableViewCellStyleDefault reuseIdentifier:CellIdentifier];
+        cell.selectionStyle = UITableViewCellSelectionStyleNone;
         UILabel *label = [[UILabel alloc] initWithFrame:CGRectZero];
         label.tag = 1;
         label.highlightedTextColor = [UIColor whiteColor];
@@ -71,17 +73,26 @@
         label.opaque = NO;
         label.backgroundColor = [UIColor clearColor];
         [cell.contentView addSubview:label];
+        
     }
     
     UILabel* label = (UILabel*)[cell viewWithTag:1];
     NSString* title = [self.labels objectAtIndex:indexPath.row];
     CGRect cellFrame = [cell frame];
-    cellFrame.origin = CGPointMake(0, 0);
-    
+    cellFrame.origin = CGPointMake(10, 10);
     label.text = title;
     CGRect rect = CGRectInset(cellFrame,2,2);
     label.frame = rect;
     [label sizeToFit];
+    
+    UITextField *textField=[[UITextField alloc]initWithFrame:CGRectMake(120, 10, 260, 24)];
+    [textField setBorderStyle:UITextBorderStyleRoundedRect];
+    textField.returnKeyType = UIReturnKeyDone;
+    if (indexPath.row==1) {
+        textField.secureTextEntry = YES;
+    }
+    textField.delegate = self;
+    [cell.contentView addSubview:textField];
     
     return cell;
 }
@@ -141,6 +152,13 @@
 - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation {
     // Return YES for supported orientations
     return (interfaceOrientation == UIInterfaceOrientationLandscapeRight);
+}
+
+#pragma mark - UITextFieldDelegate
+- (BOOL)textFieldShouldReturn:(UITextField *)textField
+{
+    [textField resignFirstResponder];//等于上面两行的代码
+    return YES;
 }
 
 @end
